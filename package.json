@@ -19,6 +19,7 @@
     "bower": "latest",
 	"pg": "latest",
 	"pg-hstore": "latest",
-	"sequelize": "latest"
+	"sequelize": "latest",
+	"sequelize-fixtures": "latest"
   }
 }
