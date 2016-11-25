@@ -18,7 +18,7 @@
     "express": "^4.11.1",
     "bower": "latest",
 	"pg": "latest",
-	"pg-hstore": "latest,
+	"pg-hstore": "latest",
 	"sequelize": "latest"
   }
 }
