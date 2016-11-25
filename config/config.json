@@ -1,9 +1,9 @@
 {
   "db": {
-    "username": "root",
-    "password": null,
-    "database": "carrito",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "hjkvcqdonlartw",
+    "password": "99WutbeK1BWtsRxf_1FzT_d81Y",
+    "database": "d8abpo2ms4qhpk",
+    "host": "ec2-54-243-204-195.compute-1.amazonaws.com:5432",
+    "dialect": "postgres"
   }
 }
