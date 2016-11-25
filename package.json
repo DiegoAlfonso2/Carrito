@@ -16,6 +16,7 @@
   "homepage": "https://github.com/NahualUY/Carrito",
   "dependencies": {
     "express": "^4.11.1",
-    "bower": "latest"
+    "bower": "latest",
+	"sequelize": "latest"
   }
 }
